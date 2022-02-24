@@ -1,12 +1,11 @@
-from os import remove
-import threading
+
 
 
 try:
     from blessed import Terminal
     from platform import system
     from time import sleep
-
+    import threading
     import socket
     import sys
     import os
@@ -17,6 +16,7 @@ except:
             | socket
             | blessed
             | time
+            | threading
             | platform
             | sys
             | os
