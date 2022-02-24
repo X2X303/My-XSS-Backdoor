@@ -1,5 +1,1 @@
-# My-XSS-Backdoor
-# My-XSS-Backdoor
-# My-XSS-Backdoor
-# My-XSS-Backdoor
-# My-XSS-Backdoor
+Its very buggy ;-;
